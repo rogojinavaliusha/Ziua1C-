@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\TemaC#\Ziua1\obj\Debug\net6.0\Ziua1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TemaC#\Ziua1\obj\Debug\net6.0\Ziua1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TemaC#\Ziua1\obj\Debug\net6.0\Ziua1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TemaC#\Ziua1\obj\Debug\net6.0\Ziua1.AssemblyInfo.cs
+C:\Users\user\Desktop\TemaC#\Ziua1\obj\Debug\net6.0\Ziua1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TemaC#\Ziua1\bin\Debug\net6.0\Ziua1.exe
+C:\Users\user\Desktop\TemaC#\Ziua1\bin\Debug\net6.0\Ziua1.deps.json
+C:\Users\user\Desktop\TemaC#\Ziua1\bin\Debug\net6.0\Ziua1.runtimeconfig.json
+C:\Users\user\Desktop\TemaC#\Ziua1\bin\Debug\net6.0\Ziua1.dll
+C:\Users\user\Desktop\TemaC#\Ziua1\bin\Debug\net6.0\Ziua1.pdb
+C:\Users\user\Desktop\TemaC#\Ziua1\obj\Debug\net6.0\Ziua1.dll
+C:\Users\user\Desktop\TemaC#\Ziua1\obj\Debug\net6.0\refint\Ziua1.dll
+C:\Users\user\Desktop\TemaC#\Ziua1\obj\Debug\net6.0\Ziua1.pdb
+C:\Users\user\Desktop\TemaC#\Ziua1\obj\Debug\net6.0\Ziua1.genruntimeconfig.cache
+C:\Users\user\Desktop\TemaC#\Ziua1\obj\Debug\net6.0\ref\Ziua1.dll
